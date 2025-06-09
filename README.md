@@ -13,6 +13,8 @@
 
 _Create a release based workflow that is built on the foundations of the GitHub flow._
 
+![Screenshot of Lab 9](3E8C020F-BA3A-43C7-95F0-3EE12B8F9555.png)
+
 </header>
 
 <!--
@@ -57,3 +59,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
